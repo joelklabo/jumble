@@ -1,0 +1,1 @@
+// Add handler for kind 30000 events\nfunction handleKind30000(event) {\n  // Implementation\n}\n\n// Update autocomplete logic\nfunction autocompleteProfiles(input) {\n  if (input.startsWith('@')) {\n    // Existing logic for individual profiles\n  } else if (input.startsWith('#')) {\n    // New logic for lists\n  }\n}
