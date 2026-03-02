@@ -1,0 +1,1 @@
+// Added minimize button functionality\nfunction handleMinimize() {\n  document.getElementById('editor').style.display = 'none';\n  document.getElementById('composeButton').style.display = 'block';\n}\nfunction handleExpand() {\n  document.getElementById('editor').style.display = 'block';\n  document.getElementById('composeButton').style.display = 'none';\n}
