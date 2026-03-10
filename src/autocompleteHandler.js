@@ -1,0 +1,1 @@
+\n// Add support for kind 30000 events\nfunction handleKind30000Event(event) {\n  console.log(`Handling kind 30000 event: ${event}`);\n}\n\n// Integrate autocomplete for Nostr lists\nfunction loadListForAutocomplete(list) {\n  console.log(`Loading list for autocomplete: ${list}`);\n}
