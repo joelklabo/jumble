@@ -1,0 +1,1 @@
+// Add logic to recognize Nostr kind 30000 and handle list autocomplete\nfunction handleListAutocomplete(event) {\n  if (event.kind === 30000) {\n    // Append logic for autocompleting list profiles\n  }\n}\nexport { handleListAutocomplete };
